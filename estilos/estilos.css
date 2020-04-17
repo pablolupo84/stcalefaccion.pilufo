@@ -37,7 +37,7 @@ header {
 
 #contenedor-titulo-flex {
   display: flex;
-  justify-content: right;
+  justify-content: flex-start;
   margin: 18vh 10vh;
   width: 100%;
 }
