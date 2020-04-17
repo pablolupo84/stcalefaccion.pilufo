@@ -32,7 +32,7 @@
           <li><a href="#servicios">Servicios</a></li>
           <li><a href="#mis-trabajos">Mis Trabajos</a></li>
           <li><a href="#por-que-trabajar">¿Por que trabajar conmigo?</a></li>
-          <li><a href="#blog">Blog</a></li>
+          <!-- <li><a href="#blog">Blog</a></li> -->
           <li><a href="#contacto">Contacto</a></li>
         </ul>
       </nav>
@@ -76,40 +76,40 @@
     <div class="contenedor-servicios">
       <div class="servicio oscuro">
         <h4>Diseño Web</h4>
-        <p>Páginas web atractivas y funcionales con el objetivo de satisfacer todas tus expectativas. La importancia del diseño es fundamental para tener éxito y atraer a tus visitantes. También lo es la velocidad de carga del sitio web, deben ser rápidos para que el visitante tenga la mejor experiencia</p>
+        <p>Páginas web atractivas y funcionales con el objetivo de satisfacer todas tus expectativas. La importancia del diseño es fundamental para tener éxito y atraer a tus visitantes. También lo es la velocidad de carga del sitio web, deben ser rápidos para que el visitante tenga la mejor experiencia.</p>
         <img class="icono" src="imagenes/monitor.png">
         <img class="ondas" src="imagenes/waves.png">
       </div>
       <div class="servicio claro">
         <h4>Responsive Design</h4>
-        <p>Hoy en día las páginas web se ven en multitud de dispositivos como tablets, celulares, libros electrónicos, notebooks, PCs, etc. La tecnología móvil es el presente y el futuro. Para eso es importante y me aseguro de que tu sitio web sea compatible con todos los tamaños de pantalla de esta época moderna</p>
+        <p>Hoy en día las páginas web se ven en dispositivos como tablets, celulares, libros electrónicos, notebooks, PCs, etc. La tecnología móvil es el presente y el futuro. Para eso es importante y me aseguro de que tu sitio web sea compatible con todos los tamaños de pantalla actuales.</p>
         <img class="icono" src="imagenes/mobile.png">
         <img class="ondas" src="imagenes/waves.png">
       </div>
       <div class="servicio oscuro">
         <h4>SEO</h4>
-        <p>Al crear sitios web, tengo muy en cuenta la optimización de motores de búsqueda (SEO). Llevo a cabo prácticas de SEO estándar en cada página del sitio web, lo que permite que tu sitio tenga una clasificación más alta en los resultados de Google y asi generar mas tráfico a la web</p>
+        <p>Al crear sitios web, tengo muy en cuenta la optimización de motores de búsqueda (SEO). Llevo a cabo prácticas de SEO estándar en cada página del sitio web, lo que permite que tu sitio tenga una clasificación más alta en los resultados de Google y asi generar mas tráfico a la web.</p>
         <img class="icono" src="imagenes/seo.png">
         <img class="ondas" src="imagenes/waves.png">
       </div>
       <div class="servicio claro">
-        <h4>Autoadministrable</h4>
-        <p>Es importante que puedas administrar tu página web vos mismo, desde cualquier lugar y en cualquier momento. Desarrollo sistemas de gestión de contenido que te permiten ver los datos de tu página web y editar el contenido que quieras, lo que te permite mantenerte actualizado</p>
+        <h4>Auto Administrable</h4>
+        <p>Es importante que puedas administrar tu página web vos mismo, desde cualquier lugar y en cualquier momento. Desarrollo sistemas de gestión de contenido que te permiten ver los datos de tu página web y editar el contenido que quieras, lo que te permite mantenerte actualizado.</p>
         <img class="icono" src="imagenes/wordpress.png">
         <img class="ondas" src="imagenes/waves.png">
       </div>
-      <div class="servicio claro">
+      <div class="servicio oscuro">
         <h4>Mantenimiento</h4>
-        <p>Podés contactarme si necesitas actualizar tu página web, agregar nuevas secciones o cualquier cambio que necesites. Esto es perfecto para los sitios web de pequeñas empresas, donde no se necesita un diseñador de páginas web a tiempo completo, sino solo en distintas ocasiones</p>
+        <p>Podés contactarme si necesitas actualizar tu página web, agregar nuevas secciones o cualquier cambio que necesites. Esto es perfecto para los sitios web de pequeñas empresas, donde no se necesita un diseñador de páginas web a tiempo completo, sino solo en distintas ocasiones.</p>
         <img class="icono" src="imagenes/mante.png">
         <img class="ondas" src="imagenes/waves.png">
       </div>
-      <!-- <div class="servicio claro">
+      <div class="servicio claro">
         <h4>Marketing Digital</h4>
-        <p>Utilizo las herramientas mas importantes como Google Adwords y Google Analytics, para que tu negocio aparezca en los resultados de búsqueda de Google justo cuando alguien te necesita y analizar como los usuarios interactúan con tu página web</p>
+        <p>Utilizo las herramientas mas importantes como Google Adwords y Google Analytics, para que tu negocio aparezca en los resultados de búsqueda de Google justo cuando alguien te necesita y analizar como los usuarios interactúan con tu página web.</p>
         <img class="icono" src="imagenes/marketing.png">
         <img class="ondas" src="imagenes/waves.png">
-      </div> -->
+      </div>
     </div>
   </div>
 </section>
@@ -119,31 +119,31 @@
     <h3>Mis Trabajos</h3>
     <div class="owl-carousel owl-theme">
     <div class="item">
-      <a href="www.google.com">
+      <a href="">
       <img src="imagenes/tkinter-py.png">
       <p>Aplicaciones de Escritorio -Python</p>
       </a>
     </div>
     <div class="item">
-      <a href="www.google.com">
+      <a href="">
       <img src="imagenes/sweetCoco.png">
       <p>Sweet-Coco</p>
       </a>
     </div>
     <div class="item">
-      <a href="www.google.com">
+      <a href="">
       <img src="imagenes/isip.jpg">
       <p>Sassy Kids</p>
       </a>
     </div>
     <div class="item">
-      <a href="www.google.com">
+      <a href="">
       <img src="imagenes/chaia.jpg">
       <p>Chaia</p>
       </a>
     </div>
         <div class="item">
-      <a href="www.google.com">
+      <a href="">
       <img src="imagenes/isip.jpg">
       <p>Isip</p>
       </a>
