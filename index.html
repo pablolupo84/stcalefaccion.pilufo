@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="estilos/estilos.css">
   <meta charset="utf-8">
   <title>PABLO LUPO</title>
-  <meta name="description" content="Diseño de paginas web"/>
+  <meta name="description" content="Desarrollo de Software y Paginas Web"/>
   <!-- fuente elegida de internet -->
   <!-- <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> -->
   <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
@@ -41,8 +41,9 @@
 
 <div class="contenedor" id="contenedor-titulo-flex">
   <div class="contenedor-titulo">
-    <h1>Pablo Lupo</h1>
-    <h2>Full Stack Developer</h2>
+    <h1>Lleva Tu Negocio</h1>
+    <h1>Al Siguiente Nivel</h1>
+    <h1>Con Un SITIO WEB</h1>
     <a href="#mis-trabajos">VER MIS TRABAJOS</a>
   </div>
 </div>
@@ -105,9 +106,9 @@
         <img class="ondas" src="imagenes/waves.png">
       </div>
       <div class="servicio claro">
-        <h4>Marketing Digital</h4>
-        <p>Utilizo las herramientas mas importantes como Google Adwords y Google Analytics, para que tu negocio aparezca en los resultados de búsqueda de Google justo cuando alguien te necesita y analizar como los usuarios interactúan con tu página web.</p>
-        <img class="icono" src="imagenes/marketing.png">
+        <h4>Desarrollo</h4>
+        <p>Diseño, desarrollo e implemento Sistemas Informáticos a Medida con el objetivo de satisfacer en su totalidad las necesidades del cliente, atención personalizada y constante interacción con los usuarios y clientes.</p>
+        <img class="icono" src="imagenes/mante.png">
         <img class="ondas" src="imagenes/waves.png">
       </div>
     </div>
@@ -132,8 +133,8 @@
     </div>
     <div class="item">
       <a href="">
-      <img src="imagenes/isip.jpg">
-      <p>Sassy Kids</p>
+      <img src="imagenes/desde_cualquier_lugar.png">
+      <p>DesdeCualquierLugar.com</p>
       </a>
     </div>
     <div class="item">
@@ -251,7 +252,7 @@
       <a href="#"><img src="imagenes/linkedin.png" alt="imagen de facebook"></a>
     </div>
     <div class="parrafo">
-      <p>© 2020 Pablo Lupo | Full Stack Developer. Todos los derechos reservados</p>
+      <p>© 2020 Pablo Lupo | Software Developer - Diseño Web. Todos los derechos reservados</p>
     </div>
   </div>
 </footer>
